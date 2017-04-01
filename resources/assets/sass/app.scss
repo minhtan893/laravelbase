@@ -1,0 +1,49 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "bootstrap/bootstrap";
+
+img{
+	max-width:100%;
+}
+p{
+	max-width:100%;
+}
+body{
+	background:#F0F0F0;
+}
+.header{
+	width:100%;
+	background:#0275D8;
+}
+
+.content{
+	margin-bottom:20px;
+}
+.pages{
+	margin-top:0px;
+}
+.clear{
+	margin-top:0px;
+}
+#footer{
+	margin-top:80px;
+	width:100%;
+	float:left;
+	background:#0275D8;
+	text-align:center;
+	padding:5px 0px;
+	p{
+		margin-top:2px;
+		color:white;
+	}
+}
+.wrapper{
+	padding-bottom:40px;
+	background:#ffffff;
+}
